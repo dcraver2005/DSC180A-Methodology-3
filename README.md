@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Dylan Craver
-dcraver@ucsd.edu
+Dylan Craver and Ritvik Chand
+
